@@ -1,127 +1,147 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
-
-<details>
-<p><strong><summary> Busy coding Laravel APIs & solving problems ☕ </summary></strong></p>
-
-Backend • Databases • Clean Architecture • Problem Solving
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=CodeWithAtwaa\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=600&color=22C55E&center=true&vCenter=true&width=820&lines=Mohamed+Tamer;Laravel+API+Specialist;Backend+Engineer;Building+Scalable+Systems" />
 
 </div>
 
-<hr>
+---
 
-# 👋 Mohamed Tamer — Backend Developer
+# 👨‍💻 Mohamed Tamer — Laravel API Specialist
 
-🎓 3rd Year — Faculty of Computers & Informatics — Zagazig University
+Backend Engineer specialized in **Laravel API Development** and **database-driven systems**, focused on building secure, scalable, and production-ready backend architectures.
 
-📊 GPA (Semester 6): 3.771
+🎓 Faculty of Computers & Informatics — Zagazig University
 
-⚙️ Backend Developer focused on **PHP & Laravel**
+📊 GPA (Semester 6): **3.771**
 
-🚀 Currently seeking **Backend / Laravel Internship**
+🎯 Target Role: **Backend / Laravel API Internship**
 
-I build scalable backend systems, RESTful APIs, and database-driven applications with clean architecture and strong validation & security practices.
+⚡ Focus: High-quality APIs, clean architecture, performance & maintainability
+
+I design and build backend systems that are structured, validated, secure, and optimized for real-world usage.
 
 ---
 
-# 🚀 Tools & Technologies I Use
+# 🏗️ Backend Engineering Focus
 
-## 👨‍💻 Backend Development
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat\&logo=laravel\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
-
----
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
+* RESTful API Architecture
+* Laravel API Development
+* Authentication & Authorization Systems
+* Database Modeling & Optimization
+* Validation & Error Handling Standards
+* Clean Code & Layered Architecture
+* Secure API Design
+* Scalable Backend Structures
 
 ---
 
-## 💻 Programming Languages
+# 🚀 Core Stack
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
+## ⚙️ Laravel & Backend
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+
+**Experience with:**
+
+* Laravel APIs
+* Resource Controllers
+* API Resources
+* Form Requests Validation
+* Middleware Design
+* Auth Guards
+* Token-based Auth
+
+---
+
+## 🗄️ Database Engineering
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+* Relational Schema Design
+* Query Optimization
+* Indexing Basics
+* Eloquent ORM Relations
+* Data Integrity & Constraints
 
 ---
 
-## 🌐 Frontend Basics
+## 💻 Programming
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+---
+
+## 🛠️ Engineering Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 🛠️ Tools & Dev Environment
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat\&logo=github\&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat\&logo=npm\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat\&logo=visualstudiocode\&logoColor=white)
-
----
+# 🧠 Engineering Mindset
 
 ```php
-// Backend Developer Profile
+final class BackendMindset {
 
-class MohamedTamer extends BackendDeveloper {
-
-  public $focus = ["Laravel", "REST APIs", "Databases"];
-
-  public $skills = [
-    "languages" => ["PHP", "C++", "JavaScript", "TypeScript"],
-    "backend" => ["Laravel", "JWT Auth", "API Development"],
-    "database" => ["MySQL", "Schema Design", "Query Optimization"],
-    "tools" => ["Git", "GitHub", "Linux"]
-  ];
-
-  public $currentlyWorkingOn = "Laravel API Projects";
-  public $seeking = "Backend Internship";
+  public function principles(): array {
+    return [
+      "API first design",
+      "Validation before logic",
+      "Security by default",
+      "Readable > Clever",
+      "Scalable structure",
+      "Performance matters"
+    ];
+  }
 }
 ```
 
 ---
 
-# 🧩 Problem Solving
+# 🧩 Problem Solving & Algorithms
 
-* 🔶 LeetCode: https://leetcode.com/u/CodeWithAtwaa0/
-* 🔷 Codeforces: https://codeforces.com/profile/TLE_King_404
-* 🟩 HackerRank: https://www.hackerrank.com/profile/mohamedatwaa341
+I continuously strengthen my backend engineering ability through algorithmic problem solving:
 
-I actively practice Data Structures & Algorithms to strengthen backend engineering skills.
+* LeetCode → https://leetcode.com/u/CodeWithAtwaa0/
+* Codeforces → https://codeforces.com/profile/TLE_King_404
+* HackerRank → https://www.hackerrank.com/profile/mohamedatwaa341
 
----
+Focus areas:
 
-# 📌 Currently Working On
-
-* Laravel REST APIs
-* Authentication & Authorization Systems
-* Database-heavy Applications
-* Clean Architecture Patterns
-* Backend Performance Improvements
+* Data Structures
+* Complexity Optimization
+* Logical Modeling
+* Edge Case Handling
 
 ---
 
-# 🌐 Connect With Me
+# 📌 Current Technical Growth
 
-* 💼 LinkedIn: https://www.linkedin.com/in/mohmed-tamer-0897a12a8/
-* 🔵 Facebook: https://www.facebook.com/mohamed.tamer.164186/
-
-📬 Open for Backend / Laravel Internship Opportunities
+* Advanced Laravel API Patterns
+* API Security Practices
+* Query Performance Tuning
+* Backend Refactoring Techniques
+* Clean Architecture in Laravel
 
 ---
 
-# 📊 GitHub Stats
+# 🤝 Professional Contact
+
+* LinkedIn → https://www.linkedin.com/in/mohmed-tamer-0897a12a8/
+* Facebook → https://www.facebook.com/mohamed.tamer.164186/
+
+📬 Open to **Laravel API / Backend Engineering Internships**
+🏢 Interested in high-impact engineering teams and production systems
+
+---
+
+# 📊 GitHub Metrics
 
 ![](https://github-readme-stats.vercel.app/api?username=CodeWithAtwaa\&theme=shadow_green\&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa\&theme=shadow_green\&hide_border=false)
@@ -129,4 +149,4 @@ I actively practice Data Structures & Algorithms to strengthen backend engineeri
 
 ---
 
-⭐ Always building. Always learning. Always shipping.
+**Backend is not just code — it’s system design, data flow, and reliability.**
