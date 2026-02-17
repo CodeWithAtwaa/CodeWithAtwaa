@@ -18,7 +18,11 @@ Backend • Databases • Clean Architecture • Problem Solving
 # 👋 Mohamed Tamer — Backend Developer
 
 🎓 3rd Year — Faculty of Computers & Informatics — Zagazig University
+
+📊 GPA (Semester 6): 3.771
+
 ⚙️ Backend Developer focused on **PHP & Laravel**
+
 🚀 Currently seeking **Backend / Laravel Internship**
 
 I build scalable backend systems, RESTful APIs, and database-driven applications with clean architecture and strong validation & security practices.
