@@ -31,13 +31,38 @@ I build scalable backend systems, RESTful APIs, and database-driven applications
 
 # 🚀 Tools & Technologies I Use
 
+## 👨‍💻 Backend Development
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat\&logo=laravel\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
+
+---
+
+## 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
+
+---
+
+## 💻 Programming Languages
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat\&logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
+
+---
+
+## 🌐 Frontend Basics
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+---
+
+## 🛠️ Tools & Dev Environment
+
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat\&logo=github\&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat\&logo=npm\&logoColor=white)
