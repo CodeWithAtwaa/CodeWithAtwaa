@@ -137,6 +137,7 @@ Focus areas:
 * Facebook → https://www.facebook.com/mohamed.tamer.164186/
 
 📬 Open to **Laravel API / Backend Engineering Internships**
+
 🏢 Interested in high-impact engineering teams and production systems
 
 ---
