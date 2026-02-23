@@ -13,7 +13,7 @@ Backend Engineer specialized in **Laravel API Development** and **database-drive
 
 🎓 Faculty of Computers & Informatics — Zagazig University
 
-📊 GPA (Semester 6): **3.771**
+📊 GPA : **3.771**
 
 🎯 Target Role: **Backend / Laravel API Internship**
 
@@ -97,25 +97,13 @@ Focus areas:
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodeWithAtwaa&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/>  
      <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&hide_border=false" height=160/>
   </p>
-    
-<!--
-  <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&border_radius=10" height="160"/>
-</p>
-
-   -->
-
-
-  
+      
 ---
 
 **Backend is not just code — it’s system design, data flow, and reliability.**
 
 
-
-
-
+<!--
 # 📊 GitHub Metrics
 
 ![](https://github-readme-stats.vercel.app/api?username=CodeWithAtwaa\&theme=shadow_green\&hide_border=false)
@@ -125,4 +113,12 @@ Focus areas:
 ---
 
 **Backend is not just code — it’s system design, data flow, and reliability.**
+-->
 
+<!--
+  <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&border_radius=10" height="160"/>
+</p>
+
+   -->
