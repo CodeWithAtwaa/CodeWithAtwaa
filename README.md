@@ -29,7 +29,7 @@ I design and build backend systems that are structured, validated, secure, and o
   
 | 💻 Languages | ⚙️ Backend & Databases |
 |-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,typescript,php," /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,mysql,sqlserver" /> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,typescript,php,javascript" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,mysql,sqlserver" /> |
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
@@ -92,13 +92,18 @@ Focus areas:
 
 ### 📊 GitHub Status :
 
-  
+<!--
   <p align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="CodeWithAtwaa" height=160 />
-      <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/> -->
+      <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/> 
      <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&hide_border=false" height=160/>
   </p>
-  
+   -->
+    
+  <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&border_radius=10" height="160"/>
+</p>
   
 ---
 
