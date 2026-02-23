@@ -35,7 +35,7 @@ I design and build backend systems that are structured, validated, secure, and o
 
 ---
 
-## 🗄️ Database Engineering
+## 🗄️ Database 
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
