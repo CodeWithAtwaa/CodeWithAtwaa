@@ -21,41 +21,22 @@ Backend Engineer specialized in **Laravel API Development** and **database-drive
 
 I design and build backend systems that are structured, validated, secure, and optimized for real-world usage.
 
----
+-----
 
 
-# 🚀 Core Stack
+### 🛠 Tech Stack :
+<div align="center">
+  
+| 💻 Languages | ⚙️ Backend & Databases |
+|-------------|-----------------------|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,javascript,php,cs" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,dotnet,mysql,sqlserver,supabase" /> |
 
-## ⚙️ Laravel & Backend
+| 🌐 Frontend | 🧰 Tools |
+|------------|---------|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio" /> |
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+</div>
 
-
----
-
-## 🗄️ Database 
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-
----
-
-## 💻 Programming
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-
----
-
-## 🛠️ Engineering Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
@@ -109,12 +90,16 @@ Focus areas:
 
 ---
 
-# 📊 GitHub Metrics
+### 📊 GitHub Status :
 
-![](https://github-readme-stats.vercel.app/api?username=CodeWithAtwaa\&theme=shadow_green\&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa\&theme=shadow_green\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAtwaa\&theme=shadow_green\&layout=compact)
-
+  
+  <p align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa2115&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="mostafa2115" height=160 />
+      <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa2115&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/> -->
+     <img src="https://nirzak-streak-stats.vercel.app/?user=mostafa2115&theme=dark&hide_border=false" height=160/>
+  </p>
+  
+  
 ---
 
 **Backend is not just code — it’s system design, data flow, and reliability.**
