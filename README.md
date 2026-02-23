@@ -23,18 +23,6 @@ I design and build backend systems that are structured, validated, secure, and o
 
 ---
 
-# 🏗️ Backend Engineering Focus
-
-* RESTful API Architecture
-* Laravel API Development
-* Authentication & Authorization Systems
-* Database Modeling & Optimization
-* Validation & Error Handling Standards
-* Clean Code & Layered Architecture
-* Secure API Design
-* Scalable Backend Structures
-
----
 
 # 🚀 Core Stack
 
@@ -44,15 +32,6 @@ I design and build backend systems that are structured, validated, secure, and o
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
 
-**Experience with:**
-
-* Laravel APIs
-* Resource Controllers
-* API Resources
-* Form Requests Validation
-* Middleware Design
-* Auth Guards
-* Token-based Auth
 
 ---
 
@@ -60,11 +39,6 @@ I design and build backend systems that are structured, validated, secure, and o
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-* Relational Schema Design
-* Query Optimization
-* Indexing Basics
-* Eloquent ORM Relations
-* Data Integrity & Constraints
 
 ---
 
@@ -120,15 +94,7 @@ Focus areas:
 * Logical Modeling
 * Edge Case Handling
 
----
 
-# 📌 Current Technical Growth
-
-* Advanced Laravel API Patterns
-* API Security Practices
-* Query Performance Tuning
-* Backend Refactoring Techniques
-* Clean Architecture in Laravel
 
 ---
 
