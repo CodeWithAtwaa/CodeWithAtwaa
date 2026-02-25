@@ -9,7 +9,7 @@
 
 # 👨‍💻 Mohamed Tamer Atwa
 
-Backend Engineer specialized in **Laravel API Development** and **database-driven systems**, focused on building secure, scalable, and production-ready backend architectures.
+Backend Developer specialized in **Laravel API Development** and **database-driven systems**, focused on building secure, scalable, and production-ready backend architectures.
 
 🎓 Faculty of Computers & Informatics — Zagazig University
 
