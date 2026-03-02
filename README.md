@@ -33,7 +33,7 @@ I design and build backend systems that are structured, validated, secure, and o
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,visualstudio,linux" /> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,linux" /> |
 
 </div>
 
