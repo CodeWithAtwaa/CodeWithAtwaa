@@ -38,25 +38,7 @@ I design and build backend systems that are structured, validated, secure, and o
 </div>
 
 
----
 
-# 🧠 Engineering Mindset
-
-```php
-final class BackendMindset {
-
-  public function principles(): array {
-    return [
-      "API first design",
-      "Validation before logic",
-      "Security by default",
-      "Readable > Clever",
-      "Scalable structure",
-      "Performance matters"
-    ];
-  }
-}
-```
 
 ---
 
