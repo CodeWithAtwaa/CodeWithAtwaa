@@ -29,7 +29,7 @@ I design and build backend systems that are structured, validated, secure, and o
   
 | 💻 Languages | ⚙️ Backend & Databases |
 |-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,php,js" /> |  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,mysql,sqlserver" /> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,php,js" /> |  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,sql" /> |
 
 | 🌐 Frontend | 🧰 Tools |
 |------------|---------|
