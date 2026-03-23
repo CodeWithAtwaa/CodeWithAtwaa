@@ -78,6 +78,7 @@ Focus areas:
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="CodeWithAtwaa" height=160 />
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodeWithAtwaa&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/>  
      <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&hide_border=false" height=160/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAtwaa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
       
 ---
