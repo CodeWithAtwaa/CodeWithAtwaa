@@ -73,26 +73,7 @@ Focus areas:
 ---
 
 ### 📊 GitHub Status :
-
-<p align="center">
-
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true"
-    height="160"
-  />
-
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodeWithAtwaa&layout=compact&theme=dark&border_radius=10&langs_count=999"
-    height="170"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=CodeWithAtwaa&theme=dark&border_radius=10"
-    height="160"
-  />
-
-</p>
-
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true" height="160"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodeWithAtwaa&layout=compact&theme=dark&border_radius=10&langs_count=999" height="170"/><img src="https://streak-stats.demolab.com?user=CodeWithAtwaa&theme=dark&border_radius=10" height="160"/></p>
 ------
 
   <p align="center">
