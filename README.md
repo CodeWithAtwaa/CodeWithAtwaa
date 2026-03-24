@@ -83,6 +83,13 @@ Focus areas:
     height="160"
   />
 
+  <!-- GitHub Streak -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark" 
+    alt="GitHub Streak"
+    height="160"
+  />
+  
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodeWithAtwaa&layout=compact&theme=dark&border_radius=10&langs_count=999" 
@@ -90,15 +97,11 @@ Focus areas:
     height="170"
   />
 
-  <!-- GitHub Streak -->
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark" 
-    alt="GitHub Streak"
-    height="160"
-  />
 
 </p>
+
 ------
+
   <p align="center">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAtwaa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
