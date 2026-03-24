@@ -77,31 +77,11 @@ Focus areas:
   <p align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&locale=en&theme=dark&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="CodeWithAtwaa" height=160 />
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodeWithAtwaa&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=999" height=170/>  
-     <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&hide_border=false" height=160/><br>
+     <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&hide_border=false" height="160"/>
+    <br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAtwaa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
       
 ---
 
 **Backend is not just code — it’s system design, data flow, and reliability.**
-
-
-<!--
-# 📊 GitHub Metrics
-
-![](https://github-readme-stats.vercel.app/api?username=CodeWithAtwaa\&theme=shadow_green\&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa\&theme=shadow_green\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAtwaa\&theme=shadow_green\&layout=compact)
-
----
-
-**Backend is not just code — it’s system design, data flow, and reliability.**
--->
-
-<!--
-  <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithAtwaa&theme=dark&border_radius=10" height="160"/>
-</p>
-
-   -->
