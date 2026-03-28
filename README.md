@@ -37,9 +37,6 @@ I design and build backend systems that are structured, validated, secure, and o
 
 </div>
 
-
-
-
 ---
 
 # 🧩 Problem Solving & Algorithms
@@ -49,15 +46,6 @@ I continuously strengthen my backend engineering ability through algorithmic pro
 * LeetCode → https://leetcode.com/u/CodeWithAtwaa0/
 * Codeforces → https://codeforces.com/profile/TLE_King_404
 * HackerRank → https://www.hackerrank.com/profile/mohamedatwaa341
-
-Focus areas:
-
-* Data Structures
-* Complexity Optimization
-* Logical Modeling
-* Edge Case Handling
-
-
 
 -----
 
