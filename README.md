@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=600&color=22C55E&center=true&vCenter=true&width=820&lines=Mohamed+Tamer;Laravel+API+Specialist;Backend+Engineer;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=600&color=22C55E&center=true&vCenter=true&width=820&lines=Mohamed+Tamer;" />
 
 </div>
 
