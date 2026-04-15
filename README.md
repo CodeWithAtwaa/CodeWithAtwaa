@@ -39,8 +39,7 @@ I continuously strengthen my backend engineering ability through algorithmic pro
 
 * LeetCode → https://leetcode.com/u/CodeWithAtwaa0/
 * Codeforces → https://codeforces.com/profile/TLE_King_404
-* HackerRank → https://www.hackerrank.com/profile/mohamedatwaa341
-
+* 
 -----
 
 # 🤝 Professional Contact
