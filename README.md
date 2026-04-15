@@ -15,12 +15,6 @@ Backend Developer specialized in **Laravel API Development** and **database-driv
 
 📊 GPA : **3.771**
 
-🎯 Target Role: **Backend / Laravel API Internship**
-
-⚡ Focus: High-quality APIs, clean architecture, performance & maintainability
-
-I design and build backend systems that are structured, validated, secure, and optimized for real-world usage.
-
 -----
 
 
