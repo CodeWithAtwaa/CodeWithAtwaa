@@ -46,6 +46,7 @@ I continuously strengthen my backend engineering ability through algorithmic pro
 
 * LinkedIn → https://www.linkedin.com/in/mohmed-tamer-0897a12a8/
 * Facebook → https://www.facebook.com/mohamed.tamer.164186/
+* CV -> https://www.linkedin.com/in/mohamed-atwaa-0897a12a8/overlay/1777737465726/single-media-viewer/?profileId=ACoAAEonxSkB6XyPMDK4Fmjik-BCd5WeouQMrrE
 
 📬 Open to **Laravel API / Backend Engineering Internships**
 
