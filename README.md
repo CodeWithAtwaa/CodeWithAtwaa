@@ -17,40 +17,29 @@ Backend Developer specialized in **Laravel API Development** and **database-driv
 
 -----
 
-
 ### 🛠 Tech Stack :
-<div align="center">
+<div align="">
   
-| 💻 Languages | ⚙️ Backend & Databases |
-|-------------|-----------------------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,php,js" /> |  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,mysql,sqlserver" /> |
+  #### Back End 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cpp,laravel,mysql,jwt" />
+  
+  #### Front End
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,axios,bootstrap" /> 
 
-| 🌐 Frontend | 🧰 Tools |
-|------------|---------|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode,linux,jwt" /> |
-
+  ### Tools
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,linux,postman,docker" />
 </div>
 
----
-
-# 🧩 Problem Solving & Algorithms
-
-I continuously strengthen my backend engineering ability through algorithmic problem solving:
-
-* LeetCode → https://leetcode.com/u/CodeWithAtwaa0/
-* Codeforces → https://codeforces.com/profile/TLE_King_404
-* 
 -----
 
 # 🤝 Professional Contact
-
+* LeetCode → https://leetcode.com/u/CodeWithAtwaa0/
+* Codeforces → https://codeforces.com/profile/TLE_King_404
 * LinkedIn → https://www.linkedin.com/in/mohmed-tamer-0897a12a8/
 * Facebook → https://www.facebook.com/mohamed.tamer.164186/
-* CV -> https://www.linkedin.com/in/mohamed-atwaa-0897a12a8/overlay/1777737465726/single-media-viewer/?profileId=ACoAAEonxSkB6XyPMDK4Fmjik-BCd5WeouQMrrE
+* CV → https://www.linkedin.com/in/mohamed-atwaa-0897a12a8/overlay/1777737465726/single-media-viewer/?profileId=ACoAAEonxSkB6XyPMDK4Fmjik-BCd5WeouQMrrE
 
-📬 Open to **Laravel API / Backend Engineering Internships**
 
-🏢 Interested in high-impact engineering teams and production systems
 
 ---
 
