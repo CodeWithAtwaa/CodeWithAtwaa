@@ -19,15 +19,7 @@ Backend Developer specialized in **Laravel API Development** and **database-driv
 
 ### 🛠 Tech Stack :
 <div align="">
-  
-  #### Back End 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cpp,laravel,mysql,jwt" />
-  
-  #### Front End
- <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,axios,bootstrap" /> 
-
-  ### Tools
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,linux,postman,docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,cpp,Jjs,html,css,bootstrap,axios,laravel,mysql,jwt,git,github,vscode,linux,postman,docker" />
 </div>
 
 -----
