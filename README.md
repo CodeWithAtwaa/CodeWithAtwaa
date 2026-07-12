@@ -15,7 +15,7 @@ Backend Developer specialized in **Laravel API Development** and **database-driv
 
 🎓 Faculty of Computers & Informatics — Zagazig University (FCI-ZU)
 
-📊 GPA : **3.771**
+📊 GPA : **3.947**
 
 -----
 
