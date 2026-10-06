@@ -49,6 +49,12 @@
 
 #### 💡 Core & Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-00599C?style=flat-square&logo=leetcode&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+
+![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Relational Databases](https://img.shields.io/badge/-Relational%20Databases-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
