@@ -56,6 +56,19 @@
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Hogwarts Portal** | Interactive Harry Potter-themed web platform featuring dynamic data management, wizard registration, and house management | Laravel, PHP, MySQL, Bootstrap, JS | [Repo](https://github.com/CodeWithAtwaa/Hogwarts-Portal) |
+| **Planora** | Smart task scheduling and project management platform designed for productivity and goal tracking | Laravel, REST API, MySQL, Bootstrap | [Repo](https://github.com/CodeWithAtwaa/Planora) |
+| **Blog API Mobile** | Scalable RESTful API backend built for mobile blog applications with authentication, posts, comments, and role management | Laravel, REST API, MySQL, JWT | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Blog-API-Mobile) |
+| **Change Department System** | Academic backend management system handling student department transfers, prerequisites, and approval workflows | PHP, MySQL, Database Design | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Change-Department-system) |
+| **Contacts Book** | Contact management application built with object-oriented principles, CRUD operations, and fast search capabilities | C++, Data Structures, OOP | [Repo](https://github.com/CodeWithAtwaa/ContactsBook) |
+| **Audio Player** | Custom interactive audio player interface with dynamic playlist controls, playback scrubbing, and smooth UI | JavaScript, HTML5, CSS3, Axios | [Repo](https://github.com/CodeWithAtwaa/Audio_Player) |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
