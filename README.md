@@ -34,13 +34,38 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=CodeWithAtwaa&layout=compact&theme=dark&border_radius=10&langs_count=8" height="160" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=CodeWithAtwaa&theme=dark&border_radius=10" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CodeWithAtwaa&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAtwaa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=CodeWithAtwaa&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAtwaa&theme=react-dark&hide_border=true&area=true&color=f75c7e&line=f75c7e&point=ffffff" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=CodeWithAtwaa&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithAtwaa&theme=radical" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithAtwaa&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeWithAtwaa&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeWithAtwaa&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CodeWithAtwaa&layout=pie&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages Pie" />
 </p>
 
 ---
