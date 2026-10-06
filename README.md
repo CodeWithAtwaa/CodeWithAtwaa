@@ -5,8 +5,8 @@
 <h1 align="center">👋 Hi, I'm Mohamed Tamer Atwa</h1>
 
 <p align="center">
-  Backend Developer specialized in <strong>Laravel API Development</strong> and <strong>database-driven systems</strong>,<br>
-  focused on building secure, scalable, and production-ready backend architectures.
+  🎯 <strong>Backend Developer</strong> | <strong>Laravel & Systems Architecture</strong><br>
+  Building scalable RESTful APIs • Optimizing database queries • Designing secure production environments
 </p>
 
 <p align="center">
