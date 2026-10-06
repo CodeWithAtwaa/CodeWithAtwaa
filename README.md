@@ -53,7 +53,8 @@
 ![Algorithms](https://img.shields.io/badge/-Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 ![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Relational Databases](https://img.shields.io/badge/-Relational%20Databases-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
+![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-17202C?style=flat-square&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-009688?style=flat-square&logo=cisco&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
