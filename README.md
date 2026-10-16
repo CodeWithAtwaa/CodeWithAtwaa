@@ -63,6 +63,7 @@
 |---------|-------------|------------|-------|
 | **Hogwarts Portal** | Interactive Harry Potter-themed web platform featuring dynamic data management, wizard registration, and house management | Laravel, PHP, MySQL, Bootstrap, JS | [Repo](https://github.com/CodeWithAtwaa/Hogwarts-Portal) |
 | **Planora** | Smart task scheduling and project management platform designed for productivity and goal tracking | Laravel, REST API, MySQL, Bootstrap | [Repo](https://github.com/CodeWithAtwaa/Planora) |
+| **Chat App** | A real-time chat application built with Laravel, Livewire, Alpine.js, and Laravel Reverb. | Laravel, MySQL,Livewire, Alpine.js, Tailwind CSS,Laravel Reverb  | [Repo](https://github.com/CodeWithAtwaa/Chat-app.git) |
 | **SQL** | my personal SQL solutions for LeetCode problems | SQL | [Repo](https://github.com/CodeWithAtwaa/SQL-leetcode) |
 | **Blog API Mobile** | Scalable RESTful API backend built for mobile blog applications with authentication, posts, comments, and role management | Laravel, REST API, MySQL, JWT | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Blog-API-Mobile) |
 | **Change Department System** | Academic backend management system handling student department transfers, prerequisites, and approval workflows | PHP, MySQL, Database Design | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Change-Department-system) |
