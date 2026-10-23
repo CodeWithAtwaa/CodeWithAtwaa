@@ -31,6 +31,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-redis-47A248?style=flat-square&logo=redis&logoColor=white)
 
 
 #### 🎨 Frontend
