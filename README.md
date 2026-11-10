@@ -66,6 +66,7 @@
 | **Planora** | Smart task scheduling and project management platform designed for productivity and goal tracking | Laravel, REST API, MySQL, Bootstrap | [Repo](https://github.com/CodeWithAtwaa/Planora) |
 | **Predict Price Housing** | A Machine Learning-powered web application for predicting housing prices using a full-stack architecture | Laravel, REST API, Python, JS, Fatsapi | [Repo](https://github.com/CodeWithAtwaa/Fullstack-Prdeict-Price-Housing) |
 | **Chat App** | A real-time chat application built with Laravel, Livewire, Alpine.js, and Laravel Reverb. | Laravel, MySQL,Livewire, Alpine.js, Tailwind CSS,Laravel Reverb  | [Repo](https://github.com/CodeWithAtwaa/Chat-app.git) |
+| **El-Jokerinas** | A collection of C++ solutions, problem-solving exercises, and algorithmic challenges. | cpp, STLs, DSA | [Repo](https://github.com/CodeWithAtwaa/El-Jokerinas) |
 | **SQL** | my personal SQL solutions for LeetCode problems | SQL | [Repo](https://github.com/CodeWithAtwaa/SQL-leetcode) |
 | **Blog API Mobile** | Scalable RESTful API backend built for mobile blog applications with authentication, posts, comments, and role management | Laravel, REST API, MySQL, JWT | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Blog-API-Mobile) |
 | **Change Department System** | Academic backend management system handling student department transfers, prerequisites, and approval workflows | PHP, MySQL, Database Design | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Change-Department-system) |
