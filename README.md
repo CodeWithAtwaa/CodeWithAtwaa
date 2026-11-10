@@ -1,119 +1,193 @@
+# 👋 Hi, I'm Mohamed Tamer Atwa
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2600&pause=600&color=22C55F&center=true&vCenter=true&width=820&lines=Mohamed+Tamer+Atwa;Backend+Developer;Laravel+%7C+REST+APIs+%7C+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=850&lines=Backend+Developer;PHP+%7C+Laravel+%7C+RESTful+APIs;Database+Design+%7C+System+Architecture;Building+Reliable+Backend+Systems" alt="Typing SVG" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Mohamed Tamer Atwa</h1>
+<h3 align="center">
+  🎯 Backend Developer | Laravel Engineer
+</h3>
 
 <p align="center">
-  🎯 <strong>Backend Developer</strong> | <strong>Laravel & Systems Architecture</strong><br>
-  Building scalable RESTful APIs • Optimizing database queries • Designing secure production environments
+  I build reliable backend systems, scalable RESTful APIs, and database-driven applications.
+  <br/>
+  Passionate about clean architecture, database optimization, security, and writing maintainable code.
 </p>
 
 <p align="center">
-  🎓 <strong>Faculty of Computers & Informatics</strong> — Zagazig University (FCI-ZU)<br>
-  📊 <strong>GPA:</strong> <code>3.947</code>
+  🎓 Computer Science Student — Faculty of Computers & Informatics, Zagazig University (FCI-ZU)
+  <br/>
+  📊 GPA: <strong>3.947</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohmed-tamer-0897a12a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/CodeWithAtwaa0/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/TLE_King_404"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.facebook.com/mohamed.tamer.164186/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
-
----
-
-### 🛠 Tech Stack
-
-#### ⚙️ Backend & Databases
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-14432301?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-#### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-#### 💡 Core & Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-00599C?style=flat-square&logo=leetcode&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![Database Design](https://img.shields.io/badge/-Database%20Design-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Relational Databases](https://img.shields.io/badge/-Relational%20Databases-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-17202C?style=flat-square&logo=linux&logoColor=white)
-![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-009688?style=flat-square&logo=cisco&logoColor=white)
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Hogwarts Portal** | Interactive Harry Potter-themed web platform featuring dynamic data management, wizard registration, and house management | Laravel, PHP, MySQL, Bootstrap, JS | [Repo](https://github.com/CodeWithAtwaa/Hogwarts-Portal) |
-| **Planora** | Smart task scheduling and project management platform designed for productivity and goal tracking | Laravel, REST API, MySQL, Bootstrap | [Repo](https://github.com/CodeWithAtwaa/Planora) |
-| **Predict Price Housing** | A Machine Learning-powered web application for predicting housing prices using a full-stack architecture | Laravel, REST API, Python, JS, Fatsapi | [Repo](https://github.com/CodeWithAtwaa/Fullstack-Prdeict-Price-Housing) |
-| **Chat App** | A real-time chat application built with Laravel, Livewire, Alpine.js, and Laravel Reverb. | Laravel, MySQL,Livewire, Alpine.js, Tailwind CSS,Laravel Reverb  | [Repo](https://github.com/CodeWithAtwaa/Chat-app.git) |
-| **El-Jokerinas** | A collection of C++ solutions, problem-solving exercises, and algorithmic challenges. | cpp, STLs, DSA | [Repo](https://github.com/CodeWithAtwaa/El-Jokerinas) |
-| **SQL** | my personal SQL solutions for LeetCode problems | SQL | [Repo](https://github.com/CodeWithAtwaa/SQL-leetcode) |
-| **Blog API Mobile** | Scalable RESTful API backend built for mobile blog applications with authentication, posts, comments, and role management | Laravel, REST API, MySQL, JWT | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Blog-API-Mobile) |
-| **Change Department System** | Academic backend management system handling student department transfers, prerequisites, and approval workflows | PHP, MySQL, Database Design | [Repo](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Change-Department-system) |
-| **Contacts Book** | Contact management application built with object-oriented principles, CRUD operations, and fast search capabilities | C++, Data Structures, OOP | [Repo](https://github.com/CodeWithAtwaa/ContactsBook) |
-| **Audio Player** | Custom interactive audio player interface with dynamic playlist controls, playback scrubbing, and smooth UI | C++, Data Structures, OOP | [Repo](https://github.com/CodeWithAtwaa/Audio_Player) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CodeWithAtwaa&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CodeWithAtwaa&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/mohmed-tamer-0897a12a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/CodeWithAtwaa0/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/TLE_King_404">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.facebook.com/mohamed.tamer.164186/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAtwaa&theme=react-dark&hide_border=true&area=true&color=f75c7e&line=f75c7e&point=ffffff" alt="Contribution Graph" />
+I'm a Computer Science student focused on **Backend Development using PHP and Laravel**, with a strong interest in software engineering principles and system architecture.
+
+I enjoy turning complex requirements into structured backend solutions, building RESTful APIs, designing relational databases, and integrating different technologies into complete applications.
+
+My engineering interests include:
+
+- ⚙️ Backend Development & RESTful API Design.
+- 🏗️ Software Architecture & Clean Code.
+- 🗄️ Database Design, Optimization & Query Performance.
+- 🔐 Authentication, Authorization & Application Security.
+- ⚡ Caching, Queues & Background Processing.
+- 🐳 Docker & Containerized Development.
+- 🧠 Data Structures, Algorithms & Problem Solving.
+
+**My goal:** To become a strong Backend Engineer capable of designing, building, and maintaining reliable production-ready systems.
+
+---
+
+## 🛠️ Technical Skills
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=CodeWithAtwaa&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
+### 🗄️ Databases & Caching
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithAtwaa&theme=radical" alt="Profile Summary" />
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWithAtwaa&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeWithAtwaa&theme=radical" alt="Most Commit Language" />
+### 🐳 DevOps & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeWithAtwaa&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CodeWithAtwaa&layout=pie&theme=radical&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages Pie" />
+### 💡 Computer Science Fundamentals
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-17202C?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-009688?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on, focusing on backend engineering, API development, database management, and problem solving.
+
+| Project | Description | Technologies |
+|---|---|---|
+| [**Hogwarts Portal**](https://github.com/CodeWithAtwaa/Hogwarts-Portal) | Harry Potter-themed web platform featuring wizard registration, dynamic data management, and house management. | Laravel, PHP, MySQL, Bootstrap, JS |
+| [**Planora**](https://github.com/CodeWithAtwaa/Planora) | Smart study planning and task scheduling platform designed to help students organize their academic workload. | Laravel, REST API, MySQL |
+| [**Predict Price Housing**](https://github.com/CodeWithAtwaa/Fullstack-Prdeict-Price-Housing) | Full-stack housing price prediction application integrating a Machine Learning service with a Laravel backend. | Laravel, Python, FastAPI, JavaScript |
+| [**Chat App**](https://github.com/CodeWithAtwaa/Chat-app) | Real-time messaging application with live communication and interactive chat functionality. | Laravel, Livewire, Alpine.js, MySQL, Reverb |
+| [**El-Jokerinas**](https://github.com/CodeWithAtwaa/El-Jokerinas) | Personal competitive programming repository containing C++ solutions and algorithmic challenges. | C++, STL, DSA |
+| [**SQL LeetCode**](https://github.com/CodeWithAtwaa/SQL-leetcode) | Personal collection of SQL solutions for LeetCode database problems. | SQL |
+| [**Blog API Mobile**](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Blog-API-Mobile) | RESTful backend for a mobile blogging application with authentication, posts, comments, and role management. | Laravel, REST API, MySQL, JWT |
+| [**Change Department System**](https://github.com/CodeWithAtwaa/Back-End-Projects/tree/main/Change-Department-system) | Academic management system for student department transfers, prerequisites, and approval workflows. | PHP, MySQL, Database Design |
+| [**Contacts Book**](https://github.com/CodeWithAtwaa/ContactsBook) | Contact management application implementing CRUD operations, object-oriented programming, and search functionality. | C++, OOP, Data Structures |
+| [**Audio Player**](https://github.com/CodeWithAtwaa/Audio_Player) | Interactive audio player with playlist management, playback controls, and dynamic functionality. | C++, OOP, Data Structures |
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <em>"Backend is not just code — it’s system design, data flow, and reliability."</em>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=CodeWithAtwaa&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="170" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CodeWithAtwaa&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Most Used Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CodeWithAtwaa&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAtwaa&theme=react-dark&hide_border=true&area=true&color=f75c7e&line=f75c7e&point=ffffff" alt="Contribution Activity Graph"/>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=CodeWithAtwaa&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithAtwaa&theme=radical" alt="GitHub Profile Summary"/>
+</p>
+
+---
+
+## 🎯 Currently Focused On
+
+- Deepening my understanding of Laravel and advanced backend development.
+- Building scalable RESTful APIs and maintainable application architectures.
+- Improving database performance, indexing, and query optimization.
+- Understanding caching, Redis, queues, and asynchronous processing.
+- Practicing Data Structures and Algorithms using C++.
+- Learning Docker and modern backend deployment practices.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on meaningful projects, and discussing backend engineering and software development.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohmed-tamer-0897a12a8/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great software is not just about writing code. It's about designing solutions that are reliable, maintainable, and built to scale."</i>
+</p>
+
+<h3 align="center">Thanks for visiting my profile! 🚀</h3>
