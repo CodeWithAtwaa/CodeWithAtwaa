@@ -5,13 +5,16 @@
 </div>
 
 <h3 align="center">
-  🎯 Backend Developer | Laravel Engineer
+  🎯 Backend Developer | Laravel Developer
 </h3>
 
 <p align="center">
-  I build reliable backend systems, scalable RESTful APIs, and database-driven applications.
-  <br/>
-  Passionate about clean architecture, database optimization, security, and writing maintainable code.
+I'm a Computer Science student focused on **Backend Development using PHP and Laravel**, with a strong interest in software engineering principles and system architecture.
+
+I enjoy turning complex requirements into structured backend solutions, building RESTful APIs, designing relational databases, and integrating different technologies into complete applications.
+
+
+**My goal:** To become a strong Backend Engineer capable of designing, building, and maintaining reliable production-ready systems.
 </p>
 
 <p align="center">
@@ -37,16 +40,6 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a Computer Science student focused on **Backend Development using PHP and Laravel**, with a strong interest in software engineering principles and system architecture.
-
-I enjoy turning complex requirements into structured backend solutions, building RESTful APIs, designing relational databases, and integrating different technologies into complete applications.
-
-
-**My goal:** To become a strong Backend Engineer capable of designing, building, and maintaining reliable production-ready systems.
-
----
 
 ## 🛠️ Technical Skills
 
