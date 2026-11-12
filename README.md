@@ -43,15 +43,6 @@ I'm a Computer Science student focused on **Backend Development using PHP and La
 
 I enjoy turning complex requirements into structured backend solutions, building RESTful APIs, designing relational databases, and integrating different technologies into complete applications.
 
-My engineering interests include:
-
-- ⚙️ Backend Development & RESTful API Design.
-- 🏗️ Software Architecture & Clean Code.
-- 🗄️ Database Design, Optimization & Query Performance.
-- 🔐 Authentication, Authorization & Application Security.
-- ⚡ Caching, Queues & Background Processing.
-- 🐳 Docker & Containerized Development.
-- 🧠 Data Structures, Algorithms & Problem Solving.
 
 **My goal:** To become a strong Backend Engineer capable of designing, building, and maintaining reliable production-ready systems.
 
@@ -157,17 +148,6 @@ Here are some of the projects I've worked on, focusing on backend engineering, A
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithAtwaa&theme=radical" alt="GitHub Profile Summary"/>
 </p>
-
----
-
-## 🎯 Currently Focused On
-
-- Deepening my understanding of Laravel and advanced backend development.
-- Building scalable RESTful APIs and maintainable application architectures.
-- Improving database performance, indexing, and query optimization.
-- Understanding caching, Redis, queues, and asynchronous processing.
-- Practicing Data Structures and Algorithms using C++.
-- Learning Docker and modern backend deployment practices.
 
 ---
 
