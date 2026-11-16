@@ -104,6 +104,7 @@ Here are some of the projects I've worked on, focusing on backend engineering, A
 |---|---|---|
 | [**Hogwarts Portal**](https://github.com/CodeWithAtwaa/Hogwarts-Portal) | Harry Potter-themed web platform featuring wizard registration, dynamic data management, and house management. | Laravel, PHP, MySQL, Bootstrap, JS |
 | [**Planora**](https://github.com/CodeWithAtwaa/Planora) | Smart study planning and task scheduling platform designed to help students organize their academic workload. | Laravel, REST API, MySQL |
+| [**E7gzly-sa3a**](https://github.com/CodeWithAtwaa/E7gzly-sa3a) | E7gzly-Sa3a is a football club booking system that allows users to easily book football pitches and choose suitable playing times | Laravel, JS, MySQL |
 | [**Predict Price Housing**](https://github.com/CodeWithAtwaa/Fullstack-Prdeict-Price-Housing) | Full-stack housing price prediction application integrating a Machine Learning service with a Laravel backend. | Laravel, Python, FastAPI, JavaScript |
 | [**Chat App**](https://github.com/CodeWithAtwaa/Chat-app) | Real-time messaging application with live communication and interactive chat functionality. | Laravel, Livewire, Alpine.js, MySQL, Reverb |
 | [**El-Jokerinas**](https://github.com/CodeWithAtwaa/El-Jokerinas) | Personal competitive programming repository containing C++ solutions and algorithmic challenges. | C++, STL, DSA |
