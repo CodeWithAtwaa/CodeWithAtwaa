@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=850&lines=Backend+Developer;PHP+%7C+Laravel+%7C+RESTful+APIs;Database+Design+%7C+System+Architecture;Building+Reliable+Backend+Systems" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="25%">
-</div>
 
 <h3 align="center">
   🎯 Backend Developer | Laravel Developer
